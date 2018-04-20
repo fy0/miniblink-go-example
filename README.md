@@ -6,7 +6,8 @@
 
 ### 环境：
 golang 32位版本（受限于目前miniblink仅有32位版）
-gcc 推荐 tdm-gcc
+
+gcc 这里推荐 tdm-gcc
 
 ### 使用步骤：
 1. clone 代码至本地
